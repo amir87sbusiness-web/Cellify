@@ -1632,4 +1632,3 @@ process.on("unhandledRejection", (reason) => { console.error("Unhandled rejectio
 createBackup();
 console.log(`🤖 Bot started. Admin ID: ${ADMIN_ID}`);
 ENDOFFILE
-echo "Done writing index.js"
