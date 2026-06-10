@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/index.js << 'ENDOFFILE'
 "use strict";
 
 // ═══════════════════════════════════════════════════════════════
@@ -1634,4 +1633,3 @@ createBackup();
 console.log(`🤖 Bot started. Admin ID: ${ADMIN_ID}`);
 ENDOFFILE
 echo "Done writing index.js"
-wc -l /mnt/user-data/outputs/index.js
